@@ -5,6 +5,15 @@
         border: 2px solid whitesmoke; 
 width:100%;
 }
+.fol{
+ width:50%;
+   text-align:center;
+   height:auto;cursor: pointer;
+   padding: 18px;
+   width: 100%;
+   border: none;
+   border:1px solid white;
+}
 table {
     border-collapse: collapse;
     border-spacing: 0;
